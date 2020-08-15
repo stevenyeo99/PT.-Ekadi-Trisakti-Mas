@@ -1,0 +1,28 @@
+html, body {
+      height: 100%;
+}
+
+body {
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/images/login.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; */
+  background: url(../img/images/login.jpeg) no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.card-header-ekadi {
+    background-color: #5cb85c;
+    text-align: center;
+    color: white;
+    font-family: arial;
+}
+
+.vertical_align_login_form {
+    margin-top: 30%;
+    margin-bottom: 30%;
+}

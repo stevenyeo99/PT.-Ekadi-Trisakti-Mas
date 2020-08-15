@@ -1,0 +1,3 @@
+<div>
+    {!! $posts->body !!}
+</div>
